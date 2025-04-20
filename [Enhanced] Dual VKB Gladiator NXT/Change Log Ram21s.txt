@@ -1,4 +1,4 @@
-Binds no longer active
+Binds no longer active:
 L-A1	Left 	[M] Set Limiter to SCM is no longer functioning in game
 
 Rebinded:
