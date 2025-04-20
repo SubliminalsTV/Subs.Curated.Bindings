@@ -1,0 +1,11 @@
+Binds no longer active
+L-A1	Left 	[M] Set Limiter to SCM is no longer functioning in game
+
+Rebinded:
+L-A1
+	Up	Increase Limiter
+	Down	Decrease Limiter
+
+New Bind:
+Main Trigger R
+	Jump Drive - Request Jump - Button 1 (First Stage)
