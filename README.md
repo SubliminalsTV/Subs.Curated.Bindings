@@ -12,39 +12,7 @@ This is the start of making my bindings open source so I can leverage the power 
 
 + Users who want to load the most stable Joystick Gremlin, and Star Citizen binding profiles. And forgo the initial release issues.
 
-If you are the latter please head over to the [bindings](https://subliminal.gg/bindings/) section of my website. There you will find:
-
-## What is included in this project
-
-+ Stable files for Enhanced or Basic binding configurations
-+ Blank and Editable Binding charts for various joysticks. See below for list of compatible programs. If you are missing the used fonts they will be substituted, so it will look odd at first but you can edit how you like. 
-  + Adobe Illustraitor
-    + Expensive monthly subscription
-    + 100% Compatible
-    + Millions of tutorials online
-  + Affinity Designer (I may switch to this in the future)
-    + Realativly inexpensive one time payment
-    + Mild compatability issues, nothing major
-    + Decent ammount of tutorials available
-  + Inkspace
-    + Free!!!
-    + Mild compatability issues
-    + Must substitute fonts when importing
-+ Helpful How-To videos from myself and Buzzkiller
-+ For advanced Joystick Gremlin Users, there are unique JG mapping profiles that aren't used in the main releases.
-  + Example 1:
-    + Uses no modifier and 1 virtual joystick.
-    + Only utilizes the 8 main axes of the VKB NXTs, excluding the analog ministick.
-    + The ministick's axis is split and mapped to virtual buttons.
-    + Clicking in on the ministick provides an additional 4 buttons to bind.
-    + Dual NXT profile that uses no modifier and one virtual joystick.
-    + Only the 8 main axes of the VKB NXTs are used, not the analog ministick.
-    + The ministick's axes are split and mapped to virtual buttons. Clicking the ministick provides 4 additional buttons to bind.
-  + Example 2:
-    + Profiles for uncommon joystick setups, such as:
-      + A right-hand Gunfighter paired with a left-hand NXT.
-      + Rare joysticks like Flicons EVO Mark One.
-  + Note: These profiles do not include Star Citizen binding profiles. You will need to create those yourself.
+If you are the latter please head over to the [bindings](https://subliminal.gg/bindings/) section of my website for the latest stable releases.
 
 ## Special Thanks
 
