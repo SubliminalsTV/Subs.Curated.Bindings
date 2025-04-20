@@ -8,14 +8,28 @@ This is the start of making my bindings open source so I can leverage the power 
 + Users who have a decent understanding of how to load profiles into Star Citizen
 + Anyone in the Star Citizen community regardless of expertise who would like to test and give feedback on the most recent binds.
 
-## Who this repository IS NOT for?
+## Who this repository IS NOT for
 
 + Users who want to load the most stable Joystick Gremlin, and Star Citizen binding profiles. And forgo the initial release issues.
 
 If you are the latter please head over to the [bindings](https://subliminal.gg/bindings/) section of my website. There you will find:
 
+## What is included in this project
+
 + Stable files for Enhanced or Basic binding configurations
-+ Blank and Editable (in Adobe Illustrator) Binding charts for various joysticks
++ Blank and Editable Binding charts for various joysticks. See below for list of compatible programs. If you are missing the used fonts they will be substituted, so it will look odd at first but you can edit how you like. 
+  + Adobe Illustraitor
+    + Expensive monthly subscription
+    + 100% Compatible
+    + Millions of tutorials online
+  + Affinity Designer (I may switch to this in the future)
+    + Realativly inexpensive one time payment
+    + Mild compatability issues, nothing major
+    + Decent ammount of tutorials available
+  + Inkspace
+    + Free!!!
+    + Mild compatability issues
+    + Must substitute fonts when importing
 + Helpful How-To videos from myself and Buzzkiller
 + For advanced Joystick Gremlin Users, there are unique JG mapping profiles that aren't used in the main releases.
   + Example 1:
@@ -35,7 +49,8 @@ If you are the latter please head over to the [bindings](https://subliminal.gg/b
 ## Special Thanks
 
 Be sure to support these projects by sharing, donating, or contributing to their open-source efforts, as well as the members of this community who help update these bindings with every patch.
-Thank you also to the open source software that makes this all possible.
+
+Also, thank you also to the open source software that makes this all possible.
 
 + [Joystick Gremlin](https://github.com/WhiteMagic/JoystickGremlin) created and maintained by [WhiteMagic](https://github.com/WhiteMagic)
 + [HidHide](https://github.com/nefarius/HidHide) maintained by [Nefarius](https://github.com/nefarius)
