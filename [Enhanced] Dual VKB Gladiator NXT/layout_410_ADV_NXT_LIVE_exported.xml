@@ -118,6 +118,32 @@
    <rebind input="js2_ "/>
   </action>
  </actionmap>
+  <actionmap name="vehicle_mfd">
+  <action name="v_mfd_interact_cycle_backwards_short">
+   <rebind input="js2_hat2_left"/>
+  </action>
+  <action name="v_mfd_interact_cycle_forwards_short">
+   <rebind input="js2_hat2_right"/>
+  </action>
+  <action name="v_mfd_movement_down_long">
+   <rebind input="js2_hat2_down"/>
+  </action>
+  <action name="v_mfd_movement_left_long">
+   <rebind input="js2_hat2_left"/>
+  </action>
+  <action name="v_mfd_movement_right_long">
+   <rebind input="js2_hat2_right"/>
+  </action>
+  <action name="v_mfd_movement_up_long">
+   <rebind input="js2_hat2_up"/>
+  </action>
+  <action name="v_mfd_soft_select_cast_left_short">
+   <rebind input="js2_hat2_left" multiTap="2"/>
+  </action>
+  <action name="v_mfd_soft_select_cast_right_short">
+   <rebind input="js2_hat2_right" multiTap="2"/>
+  </action>
+ </actionmap>
  <actionmap name="spaceship_view">
   <action name="v_ads_stable_max_zoom_hold">
    <rebind input="js1_button4"/>
